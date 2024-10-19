@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="21.6pt" height="21.6pt" viewBox="0 0 21.6 21.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2024-10-17T22:51:36.922569</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAADI0lEQVR4nL2Xv08TYRjHP3e9XpH2epRBDQSVEkEYcGAyOKqjCYmLMZAYB4W5fwCDY2fAwUU3FxMXE2aIicaFAUOM1ciPoCGUux6RlvbO4bjjrn1Le4B+k6bJ+977ft7ve8/7PO9Jd6QHDgLFMhlR87lJOc0gqSstbHf2zLOBRW6bwZo902oRDeAgtB2YrScBqOoJdoc66F47QDHKyIFnRIsIgaNAPaAHrWhxzCxAB91rxxPLxj5SV7oBLiNQFKinStqdysxCRYtT1ROhZ+vn9B17bqM6BRf0a9yhMLEAQFZ7ysAbt18xyth6ssF5aKujQq3eI3BKAmy/r2M7htWbQDVtKlqczg0rxHD2TCTvHCv9VyO5tHoTfMgvkF18QuHeS+G40fwM1SRc+OVw8aOBbOz7fQqcnCxsPenDPFW0+JFLmkIBVnJzANzKPaOqJ1DrwaIt9oAVLR6GpmUqKYnPs/NNgfXyFum9a6iLaltP+j8PunU7RnFQQcutUxxUqKQk/lyS2oYCwkX6wSWM1rRMTbNZmXrhduRgeHmSR0OfIoGzi08YCASfDxYlg63bMS78lihMzIUGfBl/HQkKMHJtizKXG8HBowHuO/k61f47bKVSvg+Vw1CbMHP9D8kAilGma9Wka9UktVkmtVXj+qtpRvMz5wLRcuticOhgG2XU0iHX3h+Q3LbJvn0aGjC8PMnznRuRwKs/ehrapDvSA8fLWicF2ZX73/n5rp+45fDnksTq9FzDZCfp7sPHbrk8MhnK1Q0pDehZcv9L+T4yVP0qFEVjs9N0cxBqk0FcqGVjH/XnLp0bFmrp0P95MTA2O902WLUcf05PCkCtWERpUplkYz+0LVU94S7Ccp23VSRSDopRDvX51SmWyZypLBZv2hQm3Aw3Mj+D/s1GNd1s1blhhdw6e2b4HLe6oNVHf2qz7G99UAeXa6Q23dMRrMVBhhS8V5/mFgLH7ndG3eLRs1RDLR362+stOGhMGKJRnHvytjVdoCW0AVwrFiPB/TN5lHTSBY6vt4F+0VyS6BPmtBf6oCJf6MF1Xg8PTvTPPmFaKQqgmf4Cw1V0Bfp53/MAAAAASUVORK5CYII=" id="image6fadeeb855" transform="scale(1 -1) translate(0 -21.6)" x="0" y="0" width="21.6" height="21.6"/>
+ </g>
+</svg>
